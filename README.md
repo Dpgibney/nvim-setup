@@ -31,6 +31,5 @@ Run
 ```bash
 fc-cache -f -v to update the fonts
 ```
-```
 
 Select the font in the terminal by right clicking the terminal -> preferences -> custom font

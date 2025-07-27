@@ -1,5 +1,7 @@
-#For installing the latest version of neovim on ubunut
+# For installing the latest version of neovim on ubunut
+'''
 sudo snap install nvim --classic
+'''
 
 #For getting LazyVim (From www.lazyvim.org/installation)
 # required

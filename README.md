@@ -2,11 +2,9 @@
 ```bash
 sudo snap install nvim --classic
 ```
-```
 
 # For getting LazyVim (From www.lazyvim.org/installation)
 Back up old config
-```
 ```bash
 mv ~/.config/nvim{,.bak}
 
@@ -14,10 +12,8 @@ mv ~/.local/share/nvim{,.bak}
 mv ~/.local/state/nvim{,.bak}
 mv ~/.cache/nvim{,.bak}
 ```
-```
 
 Get LazyVim
-```
 ```bash
 git clone https://github.com/LazyVim/starter ~/.config/nvim
 rm -rf ~/.config/nvim/.git
